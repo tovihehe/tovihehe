@@ -14,10 +14,19 @@
  
  🧠 I'm currently learning **LangChain, React, and Next.js**
 
- ❤️ Passionate about **all AI stuff and Software engineering**
+ ❤️ Passionate about **all AI stuff and full-stack development**
 
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
  🥸 Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
  
  </div>
+
+
+ <div align="center"> 
+  <h3>Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/andrea-toval" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
+
