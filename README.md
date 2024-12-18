@@ -49,8 +49,8 @@
 
 <h3 align="center">Other Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim,mongodb,mysql,postgresql,aws,azure">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,mongodb,mysql,postgresql,aws,azure" alt="Other Tools" />
+  <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim,mongodb,mysql,postgresql,aws,azure,vscode,jupyter">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,mongodb,mysql,postgresql,aws,azure,vscode,jupyter" alt="Other Tools" />
   </a>
 </p>
 
