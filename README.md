@@ -24,7 +24,7 @@
 
 <br/>
 
-<h2 align="center">⚒️ My Toolkit ⚒️</h2>
+<h2 align="center">⚒️ My toolkit ⚒️</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
