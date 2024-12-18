@@ -33,13 +33,17 @@
 
 <h2 align="center">⚒️ My Toolkit ⚒️</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<div align="center">
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,javascript,r,java" alt="Languages" />
+    
+    <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
+
+    <h3>Other Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" alt="Other Tools" />
+</div>
+
 
 
 
