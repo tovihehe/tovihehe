@@ -56,6 +56,13 @@
 
 <br/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+<img  src="https://raw.githubusercontent.com/tovihehe/tovihehe/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
+<br>
+
 <div align="center"> 
   <h2>Connect with me:</h2>
   <a href="https://www.linkedin.com/in/andrea-toval" target="_blank" rel="noopener noreferrer">
