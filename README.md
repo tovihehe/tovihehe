@@ -10,14 +10,14 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **LLM application development**
+ 👾 I'm currently working on **LLM application development**
  
- 🌱 I'm currently learning **LangChain, React, and Next.js**
+ 🧠 I'm currently learning **LangChain, React, and Next.js**
 
- 📚 Passionate about **all AI stuff and Software engineering**
+ ❤️ Passionate about **all AI stuff and Software engineering**
 
- 💬 Ask me about **Python, LLMs and AI/ML solutions**
+ 🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
- ⚡ Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
+ 🥸 Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
  
  </div>
