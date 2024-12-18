@@ -36,7 +36,7 @@
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev/icons?i=react,nodejs,nextjs">
-    <img src="https://skillicons.dev/icons?i=flask,react,nodejs,nextjs,langchain" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=flask,dynamo,react,nodejs,nextjs" alt="Frameworks" />
   </a>
 </p>
 
