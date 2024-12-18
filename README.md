@@ -32,7 +32,6 @@
 </div>
 
 <h2 align="center">⚒️ My Toolkit ⚒️</h2>
-<br/>
 
 <div align="center">
     <h3>Frameworks</h3>
