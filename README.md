@@ -32,7 +32,7 @@
 </div>
 
 <h2 align="center">⚒️ My Toolkit ⚒️</h2>
-
+<h3>Languages</h3>
 <div align="center">
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,javascript,r,java" alt="Languages" />
@@ -45,6 +45,28 @@
 </div>
 
 
+<h2 align="center">⚒️ My Toolkit ⚒️</h2>
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
+<h3 align="center">Other tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
