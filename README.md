@@ -8,8 +8,7 @@
 
 <br/>
 
-<div align="center">
-    
+<div align="center">    
  👾 I'm currently working on **LLM application development**
  
  🧠 I'm currently learning **LangChain, React, and Next.js**
