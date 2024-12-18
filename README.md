@@ -24,26 +24,26 @@
 
 <br/>
 
-<h2 align="center">⚒️ My toolkit ⚒️</h2>
+<h2 align="center">⚒️ My Toolkit ⚒️</h2>
+
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://skillicons.dev/icons?i=python,javascript,java,c">
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,c" alt="Languages" />
   </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://skillicons.dev/icons?i=react,nodejs,nextjs">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Frameworks" />
   </a>
 </p>
 
-
-<h3 align="center">Other tools</h3>
+<h3 align="center">Other Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vim" alt="Other Tools" />
   </a>
 </p>
 
