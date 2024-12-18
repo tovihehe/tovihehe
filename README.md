@@ -57,14 +57,12 @@
 <br/>
 
 <h2 align="center">📈 Stats 📉</h2>
-<br>
 <div align="center">
 <img  src="https://raw.githubusercontent.com/tovihehe/tovihehe/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 
 
 <div align="center">
- 
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tovihehe&count_private=true&theme=jolly&border_radius=10&" alt="Streak Stats for tovihehe" />
   
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tovihehe&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="Readme Stats for tovihehe" />
