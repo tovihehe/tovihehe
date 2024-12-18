@@ -61,20 +61,16 @@
 <div align="center">
 <img  src="https://raw.githubusercontent.com/tovihehe/tovihehe/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
-<br>
+
+
 <div align="center">
  
-<h2>GitHub Stats for tovihehe</h2>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tovihehe&count_private=true&theme=dracula&border_radius=10" alt="Streak Stats for tovihehe" />
   
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tovihehe&count_private=true&theme=react&border_radius=10" alt="Streak Stats for tovihehe" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tovihehe&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Readme Stats for tovihehe" />
   
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=tovihehe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats for tovihehe" />
-  
-  <br/>
-  
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tovihehe&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages for tovihehe" />
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tovihehe&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages for tovihehe" />
 </div>
-
 
 <div align="center"> 
   <h2>Connect with me:</h2>
