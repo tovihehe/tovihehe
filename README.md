@@ -34,18 +34,18 @@
 <br/>
 <div align="center">
     <h2>⚒️ My Toolkit ⚒️</h2>
-    <h3>Frameworks</h3>
+    
+    <h2>Frameworks</h2>
     <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" />
     
-    <h3>Languages</h3>
+    <h2>Languages</h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,r,java,sql" />
 
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=python,r,c" />
+    <h2>Tools</h2>
+    <img src="https://skillicons.dev/icons?i=azure,aws,vscode,github,figma,git,mongodb,mysql" />
 </div>
-
-
 <br/>
+
 
 
 
