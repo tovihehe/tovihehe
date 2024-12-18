@@ -31,5 +31,22 @@
   </a>
 </div>
 
+<br/>
+<h2 align="center">⚒️ My Toolkit ⚒️</h2>
+
+<div align="center">
+    <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" />
+    
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,javascript,r,java,sql" />
+
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=azure,aws,html,css,vscode,github,figma,git,mongodb,mysql" />
+</div>
+
+
+<br/>
+
 
 
