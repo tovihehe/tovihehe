@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
- 
  👾 I'm currently working on **LLM application development**
  
  🧠 I'm currently learning **LangChain, React, and Next.js**
@@ -19,17 +18,9 @@
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
  🥸 Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
- 
  </div>
 
 <br/>
-
-<div align="center"> 
-  <h2>Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/andrea-toval" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <h2 align="center">⚒️ My Toolkit ⚒️</h2>
 <h3 align="center">Languages</h3>
@@ -54,6 +45,14 @@
   </a>
 </p>
 
+<br/>
+
+<div align="center"> 
+  <h2>Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/andrea-toval" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
