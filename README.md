@@ -35,15 +35,29 @@
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=react,nodejs,nextjs">
+  <a href="https://skillicons.dev/icons?i=flask,django,react,nodejs,nextjs">
     <img src="https://skillicons.dev/icons?i=flask,django,react,nodejs,nextjs" alt="Frameworks" />
+  </a>
+</p>
+
+<h3 align="center">Styling</h3>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=html,css">
+    <img src="https://skillicons.dev/icons?i=html,css" alt="Styling" />
+  </a>
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=mongodb,snowflake,mysql,postgresql,mssql">
+    <img src="https://skillicons.dev/icons?i=mongodb,snowflake,mysql,postgresql,mssql" alt="Databases" />
   </a>
 </p>
 
 <h3 align="center">Other Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vim" alt="Other Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim" alt="Other Tools" />
   </a>
 </p>
 
