@@ -42,8 +42,8 @@
 
 <h3 align="center">Styling</h3>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=html,css">
-    <img src="https://skillicons.dev/icons?i=html,css" alt="Styling" />
+  <a href="https://skillicons.dev/icons?i=html,css,tailwind">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Styling" />
   </a>
 </p>
 
