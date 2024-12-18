@@ -28,8 +28,8 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=python,javascript,java,c">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,c" alt="Languages" />
+  <a href="https://skillicons.dev/icons?i=python,javascript,java,c,r,matlab,sql,assembly">
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,c,r,matlab,sql,assembly" alt="Languages" />
   </a>
 </p>
 
