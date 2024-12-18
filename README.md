@@ -31,31 +31,20 @@
   </a>
 </div>
 
+<h2 align="center">⚒️ My Toolkit ⚒️</h2>
 <br/>
+
 <div align="center">
-    <h2>⚒️ My Toolkit ⚒️</h2>
-
     <h3>Frameworks</h3>
-    <img src="https://simpleicons.org/icons/react.svg" alt="React" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="Next.js" width="40" height="40"/>
-
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" />
+    
     <h3>Languages</h3>
-    <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/r.svg" alt="R" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/mysql.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,r,java,sql" />
 
     <h3>Tools</h3>
-    <img src="https://simpleicons.org/icons/azure.svg" alt="Azure" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/vscode.svg" alt="VSCode" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="40" height="40"/>
-    <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=azure,aws,html,css,vscode,github,figma,git,mongodb,mysql" />
 </div>
-<br/>
+
 
 
 
