@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9E1CAE&lines=Hello!+🤗;+I'm+Tovi!+🦦;" />
 </h1>
 
-<h3 align="center">A passionate AI and Machine Learning enthusiast from Spain</h3>
+<h3 align="center">A passionate AI enthusiast from Spain</h3>
 
 <br/>
 
