@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+    
  👾 I'm currently working on **LLM application development**
  
  🧠 I'm currently learning **LangChain, React, and Next.js**
@@ -18,11 +19,12 @@
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
  🥸 Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
+ 
  </div>
 
 <br/>
 
-<h2 align="center">⚒️ My Toolkit ⚒️</h2>
+<h2 align="center">⚒️ My toolkit ⚒️</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
