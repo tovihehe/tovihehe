@@ -23,10 +23,10 @@
  </div>
 
 
- <div align="center"> 
+<div align="center"> 
   <h3>Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/andrea-toval" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/andrea-toval" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
+</div>
 
