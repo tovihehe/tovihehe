@@ -47,17 +47,10 @@
   </a>
 </p>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev/icons?i=mongodb,snowflake,mysql,postgresql,mssql">
-    <img src="https://skillicons.dev/icons?i=mongodb,snowflake,mysql,postgresql,mssql" alt="Databases" />
-  </a>
-</p>
-
 <h3 align="center">Other Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vim" alt="Other Tools" />
+  <a href="https://skillicons.dev/icons?i=git,docker,kubernetes,vim,mongodb,mysql,postgresql,aws,azure">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,mongodb,mysql,postgresql,aws,azure" alt="Other Tools" />
   </a>
 </p>
 
