@@ -67,7 +67,7 @@
   
   <img width="500" height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=tovihehe&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="Readme Stats for tovihehe" />
   
-  <img width="400" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tovihehe&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages for tovihehe" />
+  <img width="400" height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tovihehe&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages for tovihehe" />
 </div>
 
 <div align="center"> 
