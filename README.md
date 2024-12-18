@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h3 align="center">Styling</h3>
+<h3 align="center">Styling languages and framworks</h3>
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Styling" />
