@@ -38,10 +38,10 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs" alt="Framework Icons" />
     
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,javascript,r,java,sql" alt="Language Icons" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Language Icons" />
 
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=azure,aws,html,css,vscode,github,figma,git,mongodb,mysql" alt="Tool Icons" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Tool Icons" />
 </div>
 
 
