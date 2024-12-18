@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-  <img width="650" height="250" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tovihehe&count_private=true&theme=jolly&border_radius=10&" alt="Streak Stats for tovihehe" />
+  <img width="1200" height="250" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tovihehe&count_private=true&theme=jolly&border_radius=10&" alt="Streak Stats for tovihehe" />
   
   <img width="300" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=tovihehe&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="Readme Stats for tovihehe" />
   
