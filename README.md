@@ -12,7 +12,7 @@
     
  👾 I'm currently working on **AI and ML applications**
  
- 🧠 I'm currently learning **the LangChain framework and its integration with agents**
+ 🧠 I'm currently learning **LangChain and its integration with agents**
 
  ❤️ Passionate about **all AI stuff, full-stack development and gamez**
 
