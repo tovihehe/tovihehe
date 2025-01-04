@@ -17,6 +17,8 @@
  ❤️ Passionate about **all AI stuff and full-stack development**
 
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
+
+ 🥸 Fun fact: **Stardew Valley is a cozy game developed by a single developer, aka Eric Barone.**
  
  </div>
 
