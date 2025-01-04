@@ -10,11 +10,11 @@
 
 <div align="center">   
     
- 👾 I'm currently working on **LLM application development**
+ 👾 I'm currently working on **AI and ML applications**
  
- 🧠 I'm currently learning **LangChain, React, and Next.js**
+ 🧠 I'm currently learning **LangChain and agents**
 
- ❤️ Passionate about **all AI stuff and full-stack development**
+ ❤️ Passionate about **all AI stuff, full-stack development and gamez**
 
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
