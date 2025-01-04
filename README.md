@@ -18,7 +18,7 @@
 
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
 
- 🥸 Fun fact: **Stardew Valley is a cozy game developed by a single developer, aka Eric Barone.**
+ 🥸 Fun fact: **Stardew Valley was developed by a single developer, aka Eric Barone.**
  
  </div>
 
