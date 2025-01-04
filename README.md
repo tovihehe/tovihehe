@@ -17,8 +17,6 @@
  ❤️ Passionate about **all AI stuff and full-stack development**
 
  🗣️ Ask me about **Python, LLMs and AI/ML solutions**
-
- 🥸 Fun fact: **Sea otters hold hands while they sleep to keep from drifting apart!** 
  
  </div>
 
